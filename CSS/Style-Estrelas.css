@@ -1,0 +1,209 @@
+div{
+    position: relative;
+    border: 5px solid black;
+    width: 1090px;
+    height: 500px;
+    top: -1000;
+}
+
+#cabecalho{
+    position: relative;
+    background-image: url('Gifs/cabecalho4.gif');                            
+    border: 5px solid black;
+    height: 180px;
+    top: 0;
+    left: 165;
+    right: 100;
+    text-align: center;
+    z-index: 2;
+}
+
+#b1{
+    position: fixed;
+    background-image: url('Gifs/Botao.gif');
+    border: 5px solid black;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25;
+    height: 30px;
+    width: 135;
+    right: 5;
+    top: 9;
+    left: 13;
+    z-index: 2;
+}
+
+#b2{
+    position: fixed;
+    background-image: url('Gifs/Botao.gif');
+    border: 5px solid black;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25;
+    height: 30px;
+    width: 135;
+    right: 5;
+    top: 55;
+    left: 13;
+    z-index: 2;
+}
+
+#b3{
+    position: fixed;
+    background-image: url('Gifs/Botao.gif');
+    border: 5px solid black;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25;
+    height: 30px;
+    width: 135;
+    right: 5;
+    top: 112;
+    left: 13;
+    z-index: 2;
+}
+
+#b4{
+    position: fixed;
+    background-image: url('Gifs/Botao.gif');
+    border: 5px solid black;
+    text-align: center;
+    font-size: 25;
+    font-family: fantasy;
+    height: 30px;
+    width: 135;
+    right: 5;
+    top: 158;
+    left: 13;
+    z-index: 2;
+}
+
+#conteudo{
+    position: relative;
+    background-color: white;
+    height: 1000px;
+    width: 1090;
+    right: 80px;
+    top: 15;
+    left: 165;
+    right: 100;
+    text-align: center;
+    z-index: 1;
+}
+
+#c19{
+    position: relative;
+    background-color: white;
+    background-image: url('Imagens/c10.png');
+    top:0;
+    width: 300px;
+    height: 300px;
+    left: -5;
+    z-index: 5;
+}
+
+#c20{
+    position: relative;
+    background-color: white;
+    background-image: url('Imagens/img10.png');
+    top:-310;
+    width: 765px;
+    height: 300px;
+    left: 320;
+    z-index: 5;
+}
+
+#c21{
+    position: relative;
+    background-color: white;
+    background-image: url('Imagens/c11.png');
+    top:-275;
+    width: 300px;
+    height: 300px;
+    left: 785;
+    z-index: 5;
+}
+
+#c22{
+    position: relative;
+    background-color: white;
+    background-image: url('Imagens/img11.png');
+    top:-585;
+    width: 765px;
+    height: 300px;
+    left: -5;
+    z-index: 5;
+}
+
+#c23{
+    position: relative;
+    background-color: white;
+    background-image: url('Imagens/c12.png');
+    top:-545;
+    width: 300px;
+    height: 300px;
+    left: -5;
+    z-index: 5;
+}
+
+#c24{
+    position: relative;
+    background-color: white;
+    background-image: url('Imagens/img12.png');
+    top:-855;
+    width: 765px;
+    height: 300px;
+    left: 320;
+    z-index: 5;
+}
+
+#propaganda{
+    position: relative;
+    background-image: url('Gifs/Propaganda.gif');
+    width: 110px;
+    height: 1205px;
+    right: -1280;
+    left: 1110;
+    top: -2070;
+    background-color: white;
+    text-align: center;
+    z-index: 1;
+}
+
+#rodape{                       
+    position: relative;
+    background-image: url('Imagens/Rodape4.png');
+    height: 160px;
+    width: 1385;
+    top: -2050;
+    background-color: white;
+    text-align: center;
+    left: -165;
+    right: 100;
+    z-index: 1;
+}
+
+#fundo{
+    position: fixed;
+    height: 1000px;
+    width: 1480;
+    right: 150px;
+    top: -175;
+    left: -5;
+    right: 100;
+    z-index: 0;
+}
+
+#animacao{                       
+    position: relative;
+    background-image: url('Gifs/Animacao4.gif');
+    background-color: white;
+    border: 5px solid black;
+    height: 340px;
+    width: 135;
+    top: -2590;
+    text-align: center;
+    left: -165;
+    right: 100;
+    z-index: 1;
+}
